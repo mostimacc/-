@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据库", "数据库.csproj", "{A44B0D22-62A6-41CA-8B29-D5ED7A16F7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44B0D22-62A6-41CA-8B29-D5ED7A16F7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44B0D22-62A6-41CA-8B29-D5ED7A16F7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44B0D22-62A6-41CA-8B29-D5ED7A16F7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44B0D22-62A6-41CA-8B29-D5ED7A16F7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754E09D2-64CD-4B2A-B001-A32C69BE8213}
+	EndGlobalSection
+EndGlobal
